@@ -15,3 +15,5 @@
         load=fun[h]--[[]] local src; --[]=
        src=load('return'   ..' '..x..y..z);
       load(src())();
+
+         --This script made by bine
